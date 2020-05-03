@@ -1,2 +1,1 @@
-# tindog-respnsive
-fully responsive site desighn
+TinDog Starting Files
